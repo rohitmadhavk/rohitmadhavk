@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-📚 MSci Computer Science with Optional Placement Year @ University of Nottingham
+📚 Penultimate Year MSci Computer Science with Optional Placement Year @ University of Nottingham
 
 🧑‍💻 ex-Microsoft
 
