@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+📚 MSci Computer Science with Optional Placement Year @ University of Nottingham
+
+🧑‍💻 ex-Microsoft
+
+🛠️ I love building cool stuff like robots, microcontrollers, apps and more  
+
 <!--
 **rohitmadhavk/rohitmadhavk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
